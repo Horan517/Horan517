@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Horan517
+- 👋 Hi, I’m Haoran Xu (@Horan517).
 - 👀 I’m currently a PhD student in Geography at McMaster University in Canada. I research on tranpsportion and travel-related topics, using geospatial technologies.
 - 💞️ Besides my researhc area, I amd also interested in reading something about Anthropology and listening to a lot of music.
 - 🌱 I’m currently learning how to code through R and python, and been construcitng my own Git skills (though sometimes I don't feel this really amuses me.)
